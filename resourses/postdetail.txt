@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "language": [
+    "sample string 1",
+    "sample string 2"
+  ],
+  "yearexp": "shri detasil 22",
+  "lastused": "sample  3",
+  "st_id": " string 4"
+}
